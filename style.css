@@ -145,3 +145,77 @@ margin-left: 10px;
 	margin-top: 40px;
 	padding: 20px;
 }
+.pAbout{
+	font-size: 16px;
+	font-weight: 400;
+	color: #24272E;
+	width: 115px;
+	height: 40px;
+	border-radius: 1000px;
+	background-color: #F0E71433;
+	border:none;
+}
+.pSkilled{
+	font-size: 44px;
+	font-weight: 600;
+	color: #24272E;
+	width: 628px;
+}
+.customer{
+	font-size: 20px;
+	font-weight: 400;
+	color: #555C68;
+	width: 508px;
+}
+.butRead{
+	width: 160px;
+	height: 60px;
+	border-radius: 122px;
+	background-color: #24272E;
+	color: #F0E714;
+	font-size: 14px;
+	font-weight: 500;
+
+}
+.SectionSecond{
+	
+	margin-top: 100px;
+}
+.SectionChild{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	margin-top: 30px;
+	
+}
+.divAbout{
+	display: flex;
+	flex-direction: column;
+	row-gap: 20px;
+}
+.butWhy{
+	width: 169px;
+	height: 40px;
+	background-color: #F0E71433;
+	font-size:16px ;
+	font-weight: 400;
+	color: #101C26;
+	border: none;
+	border-radius: 1000px;
+}
+.pFrist{
+	font-size: 20px;
+	font-weight: 600;
+	color: #24272E;
+}
+.pSuch{
+	width: 301px;
+	font-size:14px ;
+	font-weight: 400;
+	color: #555C68;
+}
+.SeconFleex{
+	display: flex;
+	align-items: center;
+	gap: 15px;
+}

@@ -414,3 +414,39 @@ gap: 15px;
 	background-color:#F0E714 ;
 	border: none;
 }
+.footer{
+	background-color:#101C26 ;
+	padding-bottom: 30px;
+}
+.pAmett{
+	font-size:16px ;
+	font-weight: 400;
+	color: #F5F5F5;
+	width: 300px;
+}
+.FoooterChild{
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+.pUseful{
+	font-size: 20px;
+	font-weight: 500;
+	color: #F5F5F5;
+}
+.pHOME{
+	font-size: 16px;
+	font-weight: 500;
+	color: #B3B3B3;
+}
+.FoooterSon{
+	display: flex;
+	justify-content: space-around;
+
+	margin-top: 20px;
+	padding-top: 50px;
+}
+.hrfooter{
+	margin-top: 40px;
+	border: 1px solid #989898;
+}

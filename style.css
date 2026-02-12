@@ -373,3 +373,44 @@ gap: 15px;
 .sectionFive{
 	margin-top: 100px;
 }
+.sectionSixth{
+	margin-top: 140px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 60px;
+}
+.ch{
+	width: 213px;
+}
+.Black{
+	background-color: #101C26;
+	padding: 100px;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 30px;
+}
+.label{
+	font-size: 14px;
+	font-weight: 500;
+	color:#D3D3D3 ;
+}
+.inputt{
+	background-color: #101C26;
+	border: none;
+	height: 29px;
+	width: 400px;
+	border-bottom: 3px solid white;
+	color: white;
+}
+.pSubmit{
+	font-size: 18px;
+	font-weight: 500;
+	color: #101C26;
+	width: 180px;
+	height: 50px;
+	border-radius: 100px;
+	background-color:#F0E714 ;
+	border: none;
+}

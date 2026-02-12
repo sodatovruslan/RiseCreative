@@ -286,3 +286,41 @@ width: 181px;
 	gap: 20px;
 	margin-top: 100px;
 }
+.divTexy{
+margin-left: 100px;
+}
+.nd{
+	width: 508px;
+}
+.pHotel{
+	font-size: 34px;
+	font-weight: 500;
+	color:#24272E ;
+}
+.pOwn{
+	font-size: 20px;
+	font-weight: 400;
+	color: #555C68;
+	width: 479px;
+
+}
+.pRead{
+	font-size: 16px;
+	font-weight: 600;
+	color: #24272E;
+}
+.HOTEl{
+	display: flex;
+	flex-direction: column;
+	row-gap: 14px;
+}
+.HotelFlex{
+	display: flex;
+	align-items: center;
+	gap: 30px;
+	justify-content: center;
+	margin-top: 100px;
+}
+.sectionfour{
+	margin-top: 200px;
+}

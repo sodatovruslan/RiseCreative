@@ -29,6 +29,7 @@ color: #101C26;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
+
 }
 .Homediv{
 	display: flex;
@@ -50,4 +51,97 @@ color: #101C26;
 	font-size: 16px;
 	font-weight: 500;
 	color:#BAB9B9 ;
+}
+.pWe{
+	font-size: 60px;
+	font-weight: 700;
+	color: #F3F4F6;
+	width: 534px;
+	
+}
+.sectionFirst{
+	background-color: #101C26;
+	
+	padding-top: 80px;
+	
+}
+.pdelivering{
+	font-size: 20px;
+	font-weight: 500;
+	color: #F3F4F6;
+	width: 427px;
+}
+.pget{
+	font-size: 16px;
+	font-weight: 500;
+	width: 197px;
+	height: 60px;
+	background-color:#F0E714 ;
+	border: none;
+	border-radius: 100px;
+}
+.pHow{
+	font-size: 16px;
+	font-weight: 500;
+	color: #FFFFFF;
+}
+.Pframe{
+	display: flex;
+	align-items: center;
+	gap: 5px;
+}
+.FlexStarted{
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.Sevic{
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+}
+.p20{
+	font-size: 44px;
+	font-weight: 600;
+	color: #F0E714;
+	margin-left: 27px;
+}
+.p90{
+	font-size: 44px;
+	font-weight: 600;
+	color: #F0E714;
+
+}
+.p80{
+	font-size: 44px;
+	font-weight: 600;
+	color: #F0E714;
+margin-left: 10px;
+}
+.p{
+	font-size: 16px;
+	font-weight: 500;
+	color:#FFFFFF ;
+	margin-top: 15px;
+}
+.FlexNumber{
+	display: flex;
+	gap: 30px;
+}
+.TopBox{
+	display: flex;
+	flex-direction: column;
+	row-gap: 15px;
+}
+.SectionChild{
+	display: flex;
+	align-items: center;
+	gap: 20px;
+	justify-content: center;
+}
+.FlexImgg{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 40px;
+	padding: 20px;
 }

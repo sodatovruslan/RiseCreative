@@ -324,3 +324,52 @@ margin-left: 100px;
 .sectionfour{
 	margin-top: 200px;
 }
+.pBrooklyn{
+	font-size: 18px;
+	font-weight: 500;
+	color: #000000;
+}
+.pCo{
+	font-size: 14px;
+	font-weight: 500;
+	color:#8791A0 ;
+}
+.pAmet{
+	font-size: 16зч;
+	font-weight: 500;
+	color: #555C68;
+	width: 438px;
+	line-height: 34px;
+	line-height: 25px;
+}
+.Divborder{
+	border: 1px solid rgba(128, 128, 128, 0.469);
+	width: 430px;
+	border-radius: 10px;
+	padding: 10px;
+	box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.501);
+}
+.Tetbot{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+text-align: center;
+margin-top: 20px;
+gap: 15px;
+}
+.FifthChild{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 80px;
+}
+.Divborder2{
+	border: 1px solid rgba(128, 128, 128, 0.469);
+	width: 530px;
+	height: 400px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 10px 10px rgba(0, 0, 0, 0.501);
+
+}
+.sectionFive{
+	margin-top: 100px;
+}
